@@ -1,3 +1,4 @@
 Today class we learn
   1. Apply Protection Rule to Branches
+  2. verify it in local
   
